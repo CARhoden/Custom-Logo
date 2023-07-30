@@ -1,0 +1,25 @@
+{
+  "name": "custom-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CARhoden/Custom-Logo.git"
+  },
+  "author": "Connor Rhoden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CARhoden/Custom-Logo/issues"
+  },
+  "homepage": "https://github.com/CARhoden/Custom-Logo#readme",
+  "dependencies": {
+    "inquirer": "^9.2.9"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
