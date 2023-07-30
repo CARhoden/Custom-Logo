@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/CARhoden/Custom-Logo#readme",
   "dependencies": {
-    "inquirer": "^9.2.9"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.6.2"
