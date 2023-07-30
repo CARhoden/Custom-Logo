@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs/promises');
+const { Square, Triangle, Circle } = require('./lib/shapes');
 
 async function questions() {
     await inquirer
